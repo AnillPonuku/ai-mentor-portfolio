@@ -1,1 +1,1 @@
-# ai-mentor-portfolio <Anil Ponuku>
+# ai-mentor-portfolio Anil Ponuku
